@@ -1,0 +1,7 @@
+# local-only spec / planning — never publish
+SPEC.local.md
+
+# os / editor
+.DS_Store
+*.log
+node_modules/
